@@ -8,5 +8,13 @@ header {
 text-align: center;
 font-size: 42px;
 padding: 10px;
-border-bottom: solid 2px gray;
+border-bottom: solid 2px white;
+}
+
+.primeirovideo {
+background-color: gray;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }

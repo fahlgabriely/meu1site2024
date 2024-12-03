@@ -35,3 +35,26 @@ text-align: justify;
 p {
   font-size: 20px;
 }
+
+.videos{
+display: flex;
+overflow-x: auto;
+gap:10px
+}
+
+.outrosvideos{
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.videos img {
+opacity: 0.8;
+height: 150px;
+}
+
+.videos img.hover {
+opacity: 1.0;
+border: 2px snow;
+
+}
+
